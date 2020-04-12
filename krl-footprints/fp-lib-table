@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name krl_Connector_PCBEdge)(type KiCad)(uri ${KICAD_RETRO_LIBRARY}/krl-footprints/krl_Connector_PCBEdge.pretty)(options "")(descr "PCB Edge Connectors"))
+  (lib (name krl_Filter)(type KiCad)(uri ${KICAD_RETRO_LIBRARY}/krl-footprints/krl_Filter.pretty)(options "")(descr "Filter footprints"))
+  (lib (name krl_Package_SPDIP)(type KiCad)(uri ${KICAD_RETRO_LIBRARY}/krl-footprints/krl_Package_SPDIP.pretty)(options "")(descr "Through hole IC packages, Shrink-DIP"))
+)
