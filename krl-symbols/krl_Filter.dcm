@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CM4545Z131B-10
+D Quadruple Coupled inductor with ferrite core
+K inductor choke coil reactor magnetic coupled
+F ~
+$ENDCMP
+#
+#End Doc Library

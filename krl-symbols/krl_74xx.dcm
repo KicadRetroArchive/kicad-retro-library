@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 7406
+D TTL Hex inverter buffers/drivers with open-collector high-voltage outputs
+K ttl hex inverter open-collector
+F http://www.ti.com/lit/ds/symlink/sn7406.pdf
+$ENDCMP
+#
+$CMP 7416
+D TTL Hex inverter buffers/drivers with open-collector high-voltage outputs
+K ttl hex inverter open-collector
+F http://www.ti.com/lit/ds/symlink/sn7406.pdf
+$ENDCMP
+#
+#End Doc Library

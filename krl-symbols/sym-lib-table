@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name krl_74xx)(type Legacy)(uri ${KICAD_RETRO_LIBRARY}/krl-symbols/krl_74xx.lib)(options "")(descr "74xx symbols"))
+  (lib (name krl_Commodore)(type Legacy)(uri ${KICAD_RETRO_LIBRARY}/krl-symbols/krl_Commodore.lib)(options "")(descr "Commodore components"))
+  (lib (name krl_Diode)(type Legacy)(uri ${KICAD_RETRO_LIBRARY}/krl-symbols/krl_Diode.lib)(options "")(descr "Diodes"))
+  (lib (name krl_Filter)(type Legacy)(uri ${KICAD_RETRO_LIBRARY}/krl-symbols/krl_Filter.lib)(options "")(descr "Filter symbols"))
+  (lib (name krl_Memory_RAM)(type Legacy)(uri ${KICAD_RETRO_LIBRARY}/krl-symbols/krl_Memory_RAM.lib)(options "")(descr "Volatile RAM"))
+  (lib (name krl_Memory_ROM)(type Legacy)(uri ${KICAD_RETRO_LIBRARY}/krl-symbols/krl_Memory_ROM.lib)(options "")(descr "Read only memory"))
+  (lib (name krl_MOS-Technology)(type Legacy)(uri ${KICAD_RETRO_LIBRARY}/krl-symbols/krl_MOS-Technology.lib)(options "")(descr "MOS Technology components"))
+  (lib (name krl_Transistor_BJT)(type Legacy)(uri ${KICAD_RETRO_LIBRARY}/krl-symbols/krl_Transistor_BJT.lib)(options "")(descr "BJT transistor symbols"))
+)

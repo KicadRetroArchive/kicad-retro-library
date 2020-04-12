@@ -1,0 +1,48 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2SC1384
+D 1A Ic, 50V Vce, NPN Transistor, TO-92
+K NPN Transistor
+$ENDCMP
+#
+$CMP 2SC2458
+D 0.15A Ic, 50V Vce, Small Signal NPN Transistor, TO-92
+K NPN Transistor
+$ENDCMP
+#
+$CMP 2SC945
+D 0.1A Ic, 50V Vce, Small Signal NPN Transistor, TO-92
+K NPN Transistor
+$ENDCMP
+#
+$CMP 2SD1310
+D 3A Ic, 60V Vce, High Voltage Power NPN Transistor, TO-220
+K High Voltage Power Transistor
+$ENDCMP
+#
+$CMP 2SD313E
+D 3A Ic, 60V Vce, High Voltage Power NPN Transistor, TO-220
+K High Voltage Power Transistor
+$ENDCMP
+#
+$CMP 2SD476K
+D 4A Ic, 50V Vce, High Voltage Power NPN Transistor, TO-220
+K High Voltage Power Transistor
+$ENDCMP
+#
+$CMP 2SD789
+D 1A Ic, 50V Vce, NPN Transistor, TO-92
+K NPN Transistor
+$ENDCMP
+#
+$CMP 2SD880
+D 3A Ic, 60V Vce, High Voltage Power NPN Transistor, TO-220
+K High Voltage Power Transistor
+$ENDCMP
+#
+$CMP TIP29A
+D 1A Ic, 60V Vce, High Voltage Power NPN Transistor, TO-220
+K High Voltage Power Transistor
+$ENDCMP
+#
+#End Doc Library

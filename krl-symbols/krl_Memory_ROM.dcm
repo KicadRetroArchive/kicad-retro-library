@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 23128
+D 16K x 8 bit PROM
+K rom memory
+$ENDCMP
+#
+$CMP 2332
+D 16K x 8 PROM
+K rom memory
+$ENDCMP
+#
+#End Doc Library

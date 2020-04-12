@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 251715-01
+D C64C Memory Controller (SuperPLA)
+K 251715-01 commodore c64c memory controller superpla
+$ENDCMP
+#
+$CMP 252535-01
+D C64C Memory Controller (SuperPLA w. Color RAM)
+K 251715-01 commodore c64c memory controller superpla
+F http://www.zimmers.net/anonftp/pub/cbm/documents/chipdata/C65_memory_controller_revB-252535.pdf
+$ENDCMP
+#
+#End Doc Library

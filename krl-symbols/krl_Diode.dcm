@@ -1,0 +1,43 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1N754A
+D 500mW Zener Diode, 6.8V, DO-35
+K zener diode
+$ENDCMP
+#
+$CMP HZ11A1
+D 500mW Zener Diode, 9.7V, DO-35
+K zener diode
+$ENDCMP
+#
+$CMP HZ12B2
+D 500mW Zener Diode, 12V, DO-35
+K zener diode
+$ENDCMP
+#
+$CMP RD10ESB2
+D 400mW Zener Diode, 10V, DO-34
+K zener diode
+$ENDCMP
+#
+$CMP RD13ESB2
+D 400mW Zener Diode, 13V, DO-34
+K zener diode
+$ENDCMP
+#
+$CMP RD3.0EB1
+D 500mW Zener Diode, 3V, DO-35
+K zener diode
+$ENDCMP
+#
+$CMP RD3.0FB2
+D 1W Zener Diode, 3V, DO-41
+K zener diode
+$ENDCMP
+#
+$CMP RD6.8EB
+D 500mW Zener Diode, 6.8V, DO-35
+K zener diode
+$ENDCMP
+#
+#End Doc Library
