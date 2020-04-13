@@ -86,19 +86,19 @@ F http://archive.6502.org/datasheets/mos_6581_sid.pdf
 $ENDCMP
 #
 $CMP 8580R5
-D Video Interface Chip II - C64 - PAL
+D Video Interface Chip II - C64 - PAL, DIP-28
 K 8580R5 c64 vic vic2 pal video
 F http://archive.6502.org/datasheets/mos_6581_sid.pdf
 $ENDCMP
 #
 $CMP 8701
-D C64 Clock Generator
+D C64 Clock Generator, DIP-16
 K 8701 c64 clock
 F https://archive.org/details/mos8701datapage/mode/1up
 $ENDCMP
 #
 $CMP 8701R2
-D C64 Clock Generator
+D C64 Clock Generator, DIP-16
 K 8701R2 c64 clock
 F https://archive.org/details/mos8701datapage/mode/1up
 $ENDCMP
