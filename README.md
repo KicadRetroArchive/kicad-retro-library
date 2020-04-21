@@ -13,12 +13,9 @@
 
 ## Introduction
 
----
-
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![GitHub issues](https://img.shields.io/github/issues-raw/KicadRetroArchive/kicad-retro-library)](https://github.com/KicadRetroArchive/kicad-retro-library/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/KicadRetroArchive/kicad-retro-library)](https://github.com/KicadRetroArchive/kicad-retro-library/pulls)
-[![License](https://img.shields.io/github/license/KicadRetroArchive/kicad-retro-library.svg)](LICENSE.txt)
 
 A set of KiCad libraries for creating old computers schematics and PCBs.
 
@@ -31,8 +28,6 @@ The criteria for adding symbols and footprints to this library are the following
 The library is designed to work on KiCad v5.1.
 
 ## How to use this library
-
----
 
 The best approach is having a single copy of this library somewhere on your
 HD and add it as a **Project Specific Library** to each project.
@@ -74,7 +69,7 @@ Example for KiCad 5.1.x:
 2. Select the _"Preferences -> Manage Footprint Libraries..."_ menu entry.
 3. Select the _"Project Specific Libraries"_ tab.
 4. Click on the directory-shaped button (_"Add existing library to table"_) in the
-   bottom left side of the dialog and navigate to the `krl-symbols` directory
+   bottom left side of the dialog and navigate to the `krl-footprints` directory
    inside this repository.
 5. In the directory tree dialog use the shift key to select all the displayed `.pretty` directories.
 6. Confirm the selection.
@@ -84,14 +79,10 @@ Example for KiCad 5.1.x:
 
 ## Contributing
 
----
-
 All contributions are welcome!
 Please take a moment to review the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
-
----
 
 This library is released under the [CERN Open Hardware Licence v2](https://kt.cern/ohlv2)
 license.
