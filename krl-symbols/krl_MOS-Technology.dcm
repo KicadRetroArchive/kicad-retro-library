@@ -79,6 +79,11 @@ D VIC-II Video Interface Chip II, PAL, HMOS, DIP-40
 K 8565 c64 vic vic2 pal video
 $ENDCMP
 #
+$CMP 8565R2
+D VIC-II Video Interface Chip II, PAL, HMOS, DIP-40
+K 6569 c64 vic vic2 pal video
+$ENDCMP
+#
 $CMP 8580
 D SID Sound Interface Device, HMOS, VDD 9V DC, DIP-28
 K 8580 c64 sid sound audio
