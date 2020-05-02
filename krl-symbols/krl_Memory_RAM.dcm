@@ -6,6 +6,12 @@ K ram sram cmos memory
 F https://archive.org/download/1kx4_Static_RAM_2114/1kx4_Static_RAM_2114.pdf
 $ENDCMP
 #
+$CMP 4116
+D 16K x 1 Dynamic RAM, DIP-16
+K ram dram cmos memory
+F https://console5.com/techwiki/images/8/85/MK4116.pdf
+$ENDCMP
+#
 $CMP 41464
 D 64K x 4 Dynamic NMOS RAM, DIP-18
 K ram dram cmos memory
