@@ -18,4 +18,9 @@ K ram dram cmos memory
 F https://archive.org/download/NEC_D41464_64k_x_4bit_DRAM_Data_Sheet/NEC_D41464_64k_x_4bit_DRAM_Data_Sheet.pdf
 $ENDCMP
 #
+$CMP 4164
+D 64K x 1 Dynamic RAM, DIP-16
+K ram dram cmos memory
+$ENDCMP
+#
 #End Doc Library
