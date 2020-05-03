@@ -11,4 +11,14 @@ K 251715-01 commodore c64c memory controller superpla
 F http://www.zimmers.net/anonftp/pub/cbm/documents/chipdata/C65_memory_controller_revB-252535.pdf
 $ENDCMP
 #
+$CMP PLA_82S100
+D Signetics C64 PLA, tri-state outputs, DIP-28
+K c64 pla tri-state signetics
+$ENDCMP
+#
+$CMP PLA_82S101
+D Signetics C64 PLA, open-collector outputs, DIP-28
+K c64 pla open-collector signetics
+$ENDCMP
+#
 #End Doc Library
