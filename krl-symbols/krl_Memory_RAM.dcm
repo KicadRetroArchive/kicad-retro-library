@@ -23,4 +23,9 @@ D 64K x 1 Dynamic RAM, DIP-16
 K ram dram cmos memory
 $ENDCMP
 #
+$CMP 4532
+D 32K x 1 Dynamic RAM, DIP-16
+K ram dram cmos memory
+$ENDCMP
+#
 #End Doc Library
