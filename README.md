@@ -53,7 +53,7 @@ Example for KiCad 5.1.x:
 1. Open the main KiCad application and select a project or create a new one.
 2. Select the _"Preferences -> Manage Symbol Libraries..."_ menu entry.
 3. Select the _"Project Specific Libraries"_ tab.
-4. Click on the directory-shaped button (_"Add existing library to table"_) in the
+4. Click on the folder-shaped button (_"Add existing library to table"_) in the
    bottom left side of the dialog and navigate to the `krl-symbols` directory
    inside this repository.
 5. In the file selection dialog use the shift key to select all the displayed `.lib` files.
@@ -68,7 +68,7 @@ Example for KiCad 5.1.x:
 1. Open the main KiCad application and select a project or create a new one.
 2. Select the _"Preferences -> Manage Footprint Libraries..."_ menu entry.
 3. Select the _"Project Specific Libraries"_ tab.
-4. Click on the directory-shaped button (_"Add existing library to table"_) in the
+4. Click on the folder-shaped button (_"Add existing library to table"_) in the
    bottom left side of the dialog and navigate to the `krl-footprints` directory
    inside this repository.
 5. In the directory tree dialog use the shift key to select all the displayed `.pretty` directories.
