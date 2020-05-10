@@ -1,4 +1,4 @@
-(module SPDIP-64_W19.05mm_LongPads (layer F.Cu) (tedit 5E3F0A12)
+(module SPDIP-64_W19.05mm_LongPads (layer F.Cu) (tedit 5EB7D6D3)
   (descr "64-lead though-hole mounted SPDIP package, lead spacing 1.778 mm (70 mils), row spacing 19.05 mm (750 mils), LongPads")
   (tags "THT SPDIP DIP DIL PDIP 1.778mm 19.05mm 750mil LongPads")
   (fp_text reference REF** (at 9.508 -2.043) (layer F.SilkS)
@@ -89,4 +89,9 @@
   (pad 31 thru_hole oval (at -0.017 53.3558 270) (size 1.1176 2.1844) (drill 0.75) (layers *.Cu *.Mask))
   (pad 33 thru_hole oval (at 19.033 55.1338 270) (size 1.1176 2.1844) (drill 0.75) (layers *.Cu *.Mask))
   (pad 32 thru_hole oval (at -0.017 55.1338 270) (size 1.1176 2.1844) (drill 0.75) (layers *.Cu *.Mask))
+  (model ${KICAD_RETRO_LIBRARY}/krl-packages3d/krl_Package_SPDIP.3dshapes/SPDIP-64_W19.05mm.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
