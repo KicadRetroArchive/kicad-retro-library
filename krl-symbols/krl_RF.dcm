@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MC4044
+D Phase-Frequency Detector, DIP-14
+K phase-frequency detector pll
+F https://console5.com/techwiki/images/6/6c/MC4044.pdf
+$ENDCMP
+#
+$CMP MC4344
+D Phase-Frequency Detector, DIP-14
+K phase-frequency detector pll
+F https://console5.com/techwiki/images/6/6c/MC4044.pdf
+$ENDCMP
+#
+#End Doc Library
