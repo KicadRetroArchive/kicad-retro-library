@@ -1,5 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 2N2222
+D 0.8A Ic, 40V Vce, NPN Transistor, TO-18
+K NPN Transistor
+$ENDCMP
+#
+$CMP 2N4401
+D 0.6A Ic, 40V Vce, NPN Transistor, TO-92
+K NPN Transistor
+$ENDCMP
+#
 $CMP 2SC1384
 D 1A Ic, 50V Vce, NPN Transistor, TO-92
 K NPN Transistor
@@ -43,6 +53,13 @@ $ENDCMP
 $CMP TIP29A
 D 1A Ic, 60V Vce, High Voltage Power NPN Transistor, TO-220
 K High Voltage Power Transistor
+F https://www.onsemi.com/pub/Collateral/TIP29B-D.PDF
+$ENDCMP
+#
+$CMP TIP29B
+D 1A Ic, 80V Vce, High Voltage Power NPN Transistor, TO-220
+K High Voltage Power Transistor
+F https://www.onsemi.com/pub/Collateral/TIP29B-D.PDF
 $ENDCMP
 #
 #End Doc Library
