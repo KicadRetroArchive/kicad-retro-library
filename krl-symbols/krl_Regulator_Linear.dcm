@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MC7805CT
+D Positive 1A 35V Linear Regulator, Fixed Output 5V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.onsemi.com/pub/Collateral/MC7800-D.PDF
+$ENDCMP
+#
+$CMP MC7812CT
+D Positive 1A 35V Linear Regulator, Fixed Output 12V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.onsemi.com/pub/Collateral/MC7800-D.PDF
+$ENDCMP
+#
+#End Doc Library
