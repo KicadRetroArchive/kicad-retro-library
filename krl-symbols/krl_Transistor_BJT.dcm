@@ -82,4 +82,63 @@ K High Voltage Power Transistor
 F https://www.onsemi.com/pub/Collateral/TIP29B-D.PDF
 $ENDCMP
 #
+$CMP ZTX213
+D 0.1A Ic, 45V Vce, PNP Small Signal Transistor, TO-92
+K PNP Transistor
+$ENDCMP
+#
+$CMP ZTX310
+D 0.5A Ic, 12V Vce, NPN Transistor, TO-92
+K NPN Transistor
+F https://hardware.speccy.org/datasheet/ztx313.pdf
+$ENDCMP
+#
+$CMP ZTX311
+D 0.5A Ic, 15V Vce, NPN Transistor, TO-92
+K NPN Transistor
+F https://hardware.speccy.org/datasheet/ztx313.pdf
+$ENDCMP
+#
+$CMP ZTX312
+D 0.5A Ic, 12V Vce, NPN Transistor, TO-92
+K NPN Transistor
+F https://hardware.speccy.org/datasheet/ztx313.pdf
+$ENDCMP
+#
+$CMP ZTX313
+D 0.5A Ic, 15V Vce, NPN Transistor, TO-92
+K NPN Transistor
+F https://hardware.speccy.org/datasheet/ztx313.pdf
+$ENDCMP
+#
+$CMP ZTX314
+D 0.5A Ic, 15V Vce, NPN Transistor, TO-92
+K NPN Transistor
+F https://hardware.speccy.org/datasheet/ztx313.pdf
+$ENDCMP
+#
+$CMP ZTX450
+D 1A Ic, 45V Vce, NPN Transistor, TO-92
+K NPN Transistor
+F https://www.diodes.com/assets/Datasheets/ZTX450.pdf
+$ENDCMP
+#
+$CMP ZTX451
+D 1A Ic, 60V Vce, NPN Transistor, TO-92
+K NPN Transistor
+F https://www.diodes.com/assets/Datasheets/ZTX450.pdf
+$ENDCMP
+#
+$CMP ZTX650
+D 2A Ic, 45V Vce, NPN Transistor, TO-92
+K NPN Transistor
+F https://www.diodes.com/assets/Datasheets/ZTX650.pdf
+$ENDCMP
+#
+$CMP ZTX651
+D 2A Ic, 60V Vce, NPN Transistor, TO-92
+K NPN Transistor
+F https://www.diodes.com/assets/Datasheets/ZTX650.pdf
+$ENDCMP
+#
 #End Doc Library
