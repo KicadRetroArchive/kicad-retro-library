@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Z80
+D CPU Central Processing Unit, 8-bit, NMOS, 2.5 MHz, DIP-40
+K z80 zilog cpu mpu processor nmos
+F http://www.zilog.com/docs/z80/ps0178.pdf
+$ENDCMP
+#
+$CMP Z80A
+D CPU Central Processing Unit, 8-bit, NMOS, 4 MHz, DIP-40
+K z80 zilog cpu mpu processor nmos
+F http://www.zilog.com/docs/z80/ps0178.pdf
+$ENDCMP
+#
+$CMP Z80B
+D CPU Central Processing Unit, 8-bit, NMOS, 6 MHz, DIP-40
+K z80 zilog cpu mpu processor nmos
+F http://www.zilog.com/docs/z80/ps0178.pdf
+$ENDCMP
+#
+$CMP Z80H
+D CPU Central Processing Unit, 8-bit, NMOS, 8 MHz, DIP-40
+K z80 zilog cpu mpu processor nmos
+F http://www.zilog.com/docs/z80/ps0178.pdf
+$ENDCMP
+#
+#End Doc Library
