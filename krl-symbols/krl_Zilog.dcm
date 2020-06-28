@@ -24,4 +24,24 @@ K z80 zilog cpu mpu processor nmos
 F http://www.zilog.com/docs/z80/ps0178.pdf
 $ENDCMP
 #
+$CMP Z842004
+D PIO Parallel I/O, NMOS, 4 MHz, DIP-40
+K z80 zilog pio nmos
+$ENDCMP
+#
+$CMP Z842006
+D PIO Parallel I/O, NMOS, 6.17 MHz, DIP-40
+K z80 zilog pio nmos
+$ENDCMP
+#
+$CMP Z84C2006
+D PIO Parallel I/O, CMOS, 6.17 MHz, DIP-40
+K z80 zilog pio cmos
+$ENDCMP
+#
+$CMP Z84C2008
+D PIO Parallel I/O, CMOS, 8 MHz, DIP-40
+K z80 zilog pio cmos
+$ENDCMP
+#
 #End Doc Library
